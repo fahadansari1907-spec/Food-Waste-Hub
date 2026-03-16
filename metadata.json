@@ -1,0 +1,8 @@
+{
+  "name": "Food Waste Hub",
+  "description": "A platform to reduce food waste, analyze health impact, and facilitate food donations using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
